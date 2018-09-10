@@ -1,0 +1,5 @@
+- copy the application folder into www/
+- in phpmyadmin create quantox database
+- database.sql file is database I had, exported. You can use that file in order to create database in phpmyadmin
+- access the web application using localhost/www/quantox/index.php
+- Everything other will be self explanatory, there are links and all the forms.
